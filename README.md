@@ -8,5 +8,5 @@ Transfer Dana: Pindahkan dana dari satu akun ke akun lainnya.
 Konfirmasi Transaksi: Konfirmasi transaksi yang tertunda.
 Keluar: Keluar dari sistem dan simpan data akun ke file.
 
-Simpan Akun ke File: Data akun disimpan ke file 'akun.txt' saat keluar dari program.
-Muat Akun dari File: Data akun dimuat dari file 'akun.txt' saat program dimulai, jika file tersebut ada.
+Simpan Akun ke File: Data akun disimpan ke file akun.txt saat keluar dari program.
+Muat Akun dari File: Data akun dimuat dari file akun.txt saat program dimulai, jika file tersebut ada.
