@@ -52,12 +52,12 @@ public:
 
     void tampilkanTransaksi() {
         if (!transaksi.empty()) {
-            cout << "\t\t***** Info Transaksi *****\n";
+            cout << "\t\t******* Info Transaksi *******\n";
             cout << "\t\tNomor Rekening: " << nomorRekening << endl;
             for (int i = 0; i < transaksi.size(); i++) {
                 cout << "\t\tNo " << i + 1 << " ==> " << transaksi[i] << endl;
             }
-            cout << "\t\t**************************\n";
+            cout << "\t\t*******************************\n";
         } else {
             cout << "Tidak ada transaksi yang ditemukan\n";
         }
